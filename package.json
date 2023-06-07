@@ -1,11 +1,14 @@
 {
-  "name": "router.js",
-  "version": "1.0.0",
+  "name": "ptd-router.js",
+  "version": "1.0.4",
   "description": "A simple and fast routing library written in vanilla js",
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "lib/**/*"
+  ],
   "keywords": [],
   "author": "The ParhamDev",
   "license": "MIT"
