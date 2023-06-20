@@ -1,6 +1,6 @@
 {
-  "name": "ptd-router.js",
-  "version": "1.0.6",
+  "name": "ptd-routerjs",
+  "version": "1.0.7",
   "description": "A simple and fast routing library written in vanilla js",
   "main": "./lib/index.js",
   "files": [
@@ -9,6 +9,6 @@
   "keywords": [
     "version"
   ],
-  "author": "The ParhamDev",
+  "author": "ParhamTheDeveloper",
   "license": "MIT"
 }
